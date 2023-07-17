@@ -1,5 +1,5 @@
 # Crowd-Funder-web3.0
-With a stunning design, connected to the blockchain, metamask pairing, interaction with smart contracts, sending Ethereum through the blockchain network, writing solidity code, and, most importantly, the ability to create create, view, and donate to crowdfunding campaigns directly through the blockchain; this course is perfect to fully understand how web3, blockchain, Solidity, and smart contracts truly work behind the scenes.
+With a stunning design, connected to the blockchain, metamask pairing, interaction with smart contracts, sending Ethereum through the blockchain network, writing solidity code, and, most importantly, the ability to create create, view, and donate to crowdfunding campaigns directly through the blockchain; this project is perfect to fully understand how web3, blockchain, Solidity, and smart contracts truly work behind the scenes.
 # Project live link
 [Link to the project](https://nimble-croquembouche-64f250.netlify.app/)
 # Project-Screenshot:
